@@ -1,0 +1,72 @@
+a:8:{s:6:"config";a:5:{s:10:"phpVersion";s:17:"5.6.11-1ubuntu3.2";s:10:"yiiVersion";s:5:"2.0.7";s:11:"application";a:4:{s:3:"yii";s:5:"2.0.7";s:4:"name";s:14:"My Application";s:3:"env";s:3:"dev";s:5:"debug";b:1;}s:3:"php";a:4:{s:7:"version";s:17:"5.6.11-1ubuntu3.2";s:6:"xdebug";b:0;s:3:"apc";b:0;s:8:"memcache";b:1;}s:10:"extensions";a:9:{s:24:"yiisoft/yii2-swiftmailer";a:3:{s:4:"name";s:24:"yiisoft/yii2-swiftmailer";s:7:"version";s:7:"2.0.5.0";s:5:"alias";a:1:{s:16:"@yii/swiftmailer";s:59:"/var/www/html/yii2-rest-api/vendor/yiisoft/yii2-swiftmailer";}}s:24:"yiisoft/yii2-codeception";a:3:{s:4:"name";s:24:"yiisoft/yii2-codeception";s:7:"version";s:7:"2.0.5.0";s:5:"alias";a:1:{s:16:"@yii/codeception";s:59:"/var/www/html/yii2-rest-api/vendor/yiisoft/yii2-codeception";}}s:22:"yiisoft/yii2-bootstrap";a:3:{s:4:"name";s:22:"yiisoft/yii2-bootstrap";s:7:"version";s:7:"2.0.6.0";s:5:"alias";a:1:{s:14:"@yii/bootstrap";s:57:"/var/www/html/yii2-rest-api/vendor/yiisoft/yii2-bootstrap";}}s:18:"yiisoft/yii2-debug";a:3:{s:4:"name";s:18:"yiisoft/yii2-debug";s:7:"version";s:7:"2.0.6.0";s:5:"alias";a:1:{s:10:"@yii/debug";s:53:"/var/www/html/yii2-rest-api/vendor/yiisoft/yii2-debug";}}s:16:"yiisoft/yii2-gii";a:3:{s:4:"name";s:16:"yiisoft/yii2-gii";s:7:"version";s:7:"2.0.5.0";s:5:"alias";a:1:{s:8:"@yii/gii";s:51:"/var/www/html/yii2-rest-api/vendor/yiisoft/yii2-gii";}}s:18:"yiisoft/yii2-faker";a:3:{s:4:"name";s:18:"yiisoft/yii2-faker";s:7:"version";s:7:"2.0.3.0";s:5:"alias";a:1:{s:10:"@yii/faker";s:53:"/var/www/html/yii2-rest-api/vendor/yiisoft/yii2-faker";}}s:27:"2amigos/yii2-tinymce-widget";a:3:{s:4:"name";s:27:"2amigos/yii2-tinymce-widget";s:7:"version";s:7:"1.1.1.0";s:5:"alias";a:1:{s:18:"@dosamigos/tinymce";s:66:"/var/www/html/yii2-rest-api/vendor/2amigos/yii2-tinymce-widget/src";}}s:25:"bupy7/yii2-widget-cropbox";a:3:{s:4:"name";s:25:"bupy7/yii2-widget-cropbox";s:7:"version";s:7:"4.1.0.0";s:5:"alias";a:1:{s:14:"@bupy7/cropbox";s:60:"/var/www/html/yii2-rest-api/vendor/bupy7/yii2-widget-cropbox";}}s:20:"yiisoft/yii2-imagine";a:3:{s:4:"name";s:20:"yiisoft/yii2-imagine";s:7:"version";s:7:"2.0.3.0";s:5:"alias";a:1:{s:12:"@yii/imagine";s:55:"/var/www/html/yii2-rest-api/vendor/yiisoft/yii2-imagine";}}}}s:7:"request";a:14:{s:7:"flashes";a:0:{}s:10:"statusCode";i:200;s:14:"requestHeaders";a:9:{s:4:"host";s:9:"localhost";s:10:"connection";s:10:"keep-alive";s:13:"cache-control";s:9:"max-age=0";s:6:"accept";s:74:"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8";s:25:"upgrade-insecure-requests";s:1:"1";s:10:"user-agent";s:104:"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.86 Safari/537.36";s:15:"accept-encoding";s:19:"gzip, deflate, sdch";s:15:"accept-language";s:14:"en-US,en;q=0.8";s:6:"cookie";s:418:"PHPSESSID=kgqsgcmu4qlsjgn6h6sqgd11u1; _identity=36b34d7d6176be9cb13816091b20d71f4c8aa72cc35fa391ac73143418a31ff8a%3A2%3A%7Bi%3A0%3Bs%3A9%3A%22_identity%22%3Bi%3A1%3Bs%3A46%3A%22%5B1%2C%22R1p_c-xhZAMHMyKlWHudwVYl3Gjp_lnL%22%2C2592000%5D%22%3B%7D; _csrf=08ebc3d8a54fded1b13a46685cbc3754bdc4508211f2cedb1b9d73262d914e82a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%2298nNL3B4VQW4twX_zvB7fB4z90Z6DumJ%22%3B%7D";}s:15:"responseHeaders";a:6:{s:24:"X-Pagination-Total-Count";s:1:"2";s:23:"X-Pagination-Page-Count";s:1:"1";s:25:"X-Pagination-Current-Page";s:1:"1";s:21:"X-Pagination-Per-Page";s:2:"20";s:4:"Link";s:66:"<http://localhost/yii2-rest-api/api/web/v1/posts?page=1>; rel=self";s:12:"Content-Type";s:30:"application/xml; charset=UTF-8";}s:5:"route";s:13:"v1/post/index";s:6:"action";s:27:"yii\rest\IndexAction::run()";s:12:"actionParams";a:0:{}s:11:"requestBody";a:0:{}s:6:"SERVER";a:34:{s:15:"REDIRECT_STATUS";s:3:"200";s:9:"HTTP_HOST";s:9:"localhost";s:15:"HTTP_CONNECTION";s:10:"keep-alive";s:18:"HTTP_CACHE_CONTROL";s:9:"max-age=0";s:11:"HTTP_ACCEPT";s:74:"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8";s:30:"HTTP_UPGRADE_INSECURE_REQUESTS";s:1:"1";s:15:"HTTP_USER_AGENT";s:104:"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.86 Safari/537.36";s:20:"HTTP_ACCEPT_ENCODING";s:19:"gzip, deflate, sdch";s:20:"HTTP_ACCEPT_LANGUAGE";s:14:"en-US,en;q=0.8";s:11:"HTTP_COOKIE";s:418:"PHPSESSID=kgqsgcmu4qlsjgn6h6sqgd11u1; _identity=36b34d7d6176be9cb13816091b20d71f4c8aa72cc35fa391ac73143418a31ff8a%3A2%3A%7Bi%3A0%3Bs%3A9%3A%22_identity%22%3Bi%3A1%3Bs%3A46%3A%22%5B1%2C%22R1p_c-xhZAMHMyKlWHudwVYl3Gjp_lnL%22%2C2592000%5D%22%3B%7D; _csrf=08ebc3d8a54fded1b13a46685cbc3754bdc4508211f2cedb1b9d73262d914e82a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%2298nNL3B4VQW4twX_zvB7fB4z90Z6DumJ%22%3B%7D";s:4:"PATH";s:60:"/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin";s:16:"SERVER_SIGNATURE";s:70:"<address>Apache/2.4.12 (Ubuntu) Server at localhost Port 80</address>
+";s:15:"SERVER_SOFTWARE";s:22:"Apache/2.4.12 (Ubuntu)";s:11:"SERVER_NAME";s:9:"localhost";s:11:"SERVER_ADDR";s:9:"127.0.0.1";s:11:"SERVER_PORT";s:2:"80";s:11:"REMOTE_ADDR";s:9:"127.0.0.1";s:13:"DOCUMENT_ROOT";s:13:"/var/www/html";s:14:"REQUEST_SCHEME";s:4:"http";s:14:"CONTEXT_PREFIX";s:0:"";s:21:"CONTEXT_DOCUMENT_ROOT";s:13:"/var/www/html";s:12:"SERVER_ADMIN";s:19:"webmaster@localhost";s:15:"SCRIPT_FILENAME";s:45:"/var/www/html/yii2-rest-api/api/web/index.php";s:11:"REMOTE_PORT";s:5:"42016";s:12:"REDIRECT_URL";s:31:"/yii2-rest-api/api/web/v1/posts";s:17:"GATEWAY_INTERFACE";s:7:"CGI/1.1";s:15:"SERVER_PROTOCOL";s:8:"HTTP/1.1";s:14:"REQUEST_METHOD";s:3:"GET";s:12:"QUERY_STRING";s:0:"";s:11:"REQUEST_URI";s:31:"/yii2-rest-api/api/web/v1/posts";s:11:"SCRIPT_NAME";s:32:"/yii2-rest-api/api/web/index.php";s:8:"PHP_SELF";s:32:"/yii2-rest-api/api/web/index.php";s:18:"REQUEST_TIME_FLOAT";d:1461645927.0190001;s:12:"REQUEST_TIME";i:1461645927;}s:3:"GET";a:0:{}s:4:"POST";a:0:{}s:6:"COOKIE";a:3:{s:9:"PHPSESSID";s:26:"kgqsgcmu4qlsjgn6h6sqgd11u1";s:9:"_identity";s:148:"36b34d7d6176be9cb13816091b20d71f4c8aa72cc35fa391ac73143418a31ff8a:2:{i:0;s:9:"_identity";i:1;s:46:"[1,"R1p_c-xhZAMHMyKlWHudwVYl3Gjp_lnL",2592000]";}";s:5:"_csrf";s:130:"08ebc3d8a54fded1b13a46685cbc3754bdc4508211f2cedb1b9d73262d914e82a:2:{i:0;s:5:"_csrf";i:1;s:32:"98nNL3B4VQW4twX_zvB7fB4z90Z6DumJ";}";}s:5:"FILES";a:0:{}s:7:"SESSION";a:0:{}}s:3:"log";a:1:{s:8:"messages";a:17:{i:0;a:5:{i:0;s:33:"Bootstrap with yii\log\Dispatcher";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1461645927.156625;i:4;a:0:{}}i:1;a:5:{i:0;s:21:"Loading module: debug";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1461645927.156724;i:4;a:0:{}}i:2;a:5:{i:0;s:44:"Bootstrap with yii\debug\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1461645927.1587639;i:4;a:0:{}}i:3;a:5:{i:0;s:19:"Loading module: gii";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1461645927.223856;i:4;a:0:{}}i:4;a:5:{i:0;s:42:"Bootstrap with yii\gii\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1461645927.2241881;i:4;a:0:{}}i:5;a:5:{i:0;s:38:"Request parsed with URL rule: v1/posts";i:1;i:8;i:2;s:29:"yii\web\UrlRule::parseRequest";i:3;d:1461645927.2253959;i:4;a:0:{}}i:6;a:5:{i:0;s:38:"Request parsed with URL rule: v1/posts";i:1;i:8;i:2;s:30:"yii\rest\UrlRule::parseRequest";i:3;d:1461645927.2254579;i:4;a:0:{}}i:7;a:5:{i:0;s:32:"Route requested: 'v1/post/index'";i:1;i:8;i:2;s:34:"yii\web\Application::handleRequest";i:3;d:1461645927.2255089;i:4;a:0:{}}i:8;a:5:{i:0;s:18:"Loading module: v1";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1461645927.225558;i:4;a:0:{}}i:9;a:5:{i:0;s:27:"Route to run: v1/post/index";i:1;i:8;i:2;s:30:"yii\base\Controller::runAction";i:3;d:1461645927.2766211;i:4;a:0:{}}i:10;a:5:{i:0;s:39:"Rate limit skipped: user not logged in.";i:1;i:4;i:2;s:37:"yii\filters\RateLimiter::beforeAction";i:3;d:1461645927.3171749;i:4;a:0:{}}i:11;a:5:{i:0;s:43:"Running action: yii\rest\IndexAction::run()";i:1;i:8;i:2;s:30:"yii\base\Action::runWithParams";i:3;d:1461645927.3173251;i:4;a:0:{}}i:12;a:5:{i:0;s:27:"SELECT COUNT(*) FROM `post`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1461645927.350112;i:4;a:0:{}}i:13;a:5:{i:0;s:63:"Opening DB connection: mysql:host=localhost;dbname=yii2advanced";i:1;i:4;i:2;s:23:"yii\db\Connection::open";i:3;d:1461645927.350301;i:4;a:0:{}}i:18;a:5:{i:0;s:29:"SHOW FULL COLUMNS FROM `post`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1461645927.3588319;i:4;a:0:{}}i:21;a:5:{i:0;s:595:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'post' AND kcu.table_name = 'post'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1461645927.3616731;i:4;a:0:{}}i:24;a:5:{i:0;s:29:"SELECT * FROM `post` LIMIT 20";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1461645927.363255;i:4;a:0:{}}}}s:9:"profiling";a:3:{s:6:"memory";i:2972584;s:4:"time";d:0.30537295341491699;s:8:"messages";a:10:{i:14;a:5:{i:0;s:63:"Opening DB connection: mysql:host=localhost;dbname=yii2advanced";i:1;i:80;i:2;s:23:"yii\db\Connection::open";i:3;d:1461645927.350415;i:4;a:0:{}}i:15;a:5:{i:0;s:63:"Opening DB connection: mysql:host=localhost;dbname=yii2advanced";i:1;i:96;i:2;s:23:"yii\db\Connection::open";i:3;d:1461645927.3550439;i:4;a:0:{}}i:16;a:5:{i:0;s:27:"SELECT COUNT(*) FROM `post`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1461645927.3553841;i:4;a:0:{}}i:17;a:5:{i:0;s:27:"SELECT COUNT(*) FROM `post`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1461645927.3559539;i:4;a:0:{}}i:19;a:5:{i:0;s:29:"SHOW FULL COLUMNS FROM `post`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1461645927.3589461;i:4;a:0:{}}i:20;a:5:{i:0;s:29:"SHOW FULL COLUMNS FROM `post`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1461645927.360265;i:4;a:0:{}}i:22;a:5:{i:0;s:595:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'post' AND kcu.table_name = 'post'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1461645927.3618269;i:4;a:0:{}}i:23;a:5:{i:0;s:595:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'post' AND kcu.table_name = 'post'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1461645927.362709;i:4;a:0:{}}i:25;a:5:{i:0;s:29:"SELECT * FROM `post` LIMIT 20";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1461645927.3633211;i:4;a:0:{}}i:26;a:5:{i:0;s:29:"SELECT * FROM `post` LIMIT 20";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1461645927.363584;i:4;a:0:{}}}}s:2:"db";a:1:{s:8:"messages";a:8:{i:16;a:5:{i:0;s:27:"SELECT COUNT(*) FROM `post`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1461645927.3553841;i:4;a:0:{}}i:17;a:5:{i:0;s:27:"SELECT COUNT(*) FROM `post`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1461645927.3559539;i:4;a:0:{}}i:19;a:5:{i:0;s:29:"SHOW FULL COLUMNS FROM `post`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1461645927.3589461;i:4;a:0:{}}i:20;a:5:{i:0;s:29:"SHOW FULL COLUMNS FROM `post`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1461645927.360265;i:4;a:0:{}}i:22;a:5:{i:0;s:595:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'post' AND kcu.table_name = 'post'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1461645927.3618269;i:4;a:0:{}}i:23;a:5:{i:0;s:595:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'post' AND kcu.table_name = 'post'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1461645927.362709;i:4;a:0:{}}i:25;a:5:{i:0;s:29:"SELECT * FROM `post` LIMIT 20";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1461645927.3633211;i:4;a:0:{}}i:26;a:5:{i:0;s:29:"SELECT * FROM `post` LIMIT 20";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1461645927.363584;i:4;a:0:{}}}}s:6:"assets";a:0:{}s:4:"mail";a:0:{}s:7:"summary";a:9:{s:3:"tag";s:13:"571ef26726d29";s:3:"url";s:47:"http://localhost/yii2-rest-api/api/web/v1/posts";s:4:"ajax";i:0;s:6:"method";s:3:"GET";s:2:"ip";s:9:"127.0.0.1";s:4:"time";i:1461645927;s:10:"statusCode";i:200;s:8:"sqlCount";i:4;s:9:"mailCount";i:0;}}
